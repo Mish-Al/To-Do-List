@@ -1,0 +1,59 @@
+@media  screen and (max-width:760px) {
+    
+
+
+}
+
+body{
+    background-color: rgb(29, 28, 28);
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lis{
+    margin-top: 20px;
+    padding:10rem;
+    background-color:rgb(214, 214, 214);
+    border-radius: 24px;
+}
+
+button{
+    padding:1rem;
+    border-radius: 24px;
+    background-color: black;
+    color: white;
+    border: 1px solid slategray;
+}
+button:hover{
+    background-color: rgb(150, 144, 144);
+    color: rgb(49, 48, 48);
+}
+
+
+input{
+    padding:1rem;
+    border-radius: 24px ;
+}
+
+.heading{
+    display:flex;
+   justify-content:center;
+   align-items:center;
+   color:rgb(37, 35, 35);
+   font-size: 20px;
+   text-decoration: underline;
+}
+
+.container-fluid{
+    background-color: #8e8989;
+    padding:5rem;
+    border-radius: 24px;
+}
